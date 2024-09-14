@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+    <pedName>mp_f_freemode_01</pedName>
+    <dlcName>arp_parkingofficer</dlcName>
+    <fullDlcName>mp_f_freemode_01_arp_parkingofficer</fullDlcName>
+    <eCharacter>SCR_CHAR_MULTIPLAYER_F</eCharacter>
+    <creatureMetaData>mp_creaturemetadata_f_arp_parkingofficer</creatureMetaData>
+    <pedOutfits>
+    </pedOutfits>
+    <pedComponents>
+    </pedComponents>
+    <pedProps>
+    </pedProps>
+</ShopPedApparel>
